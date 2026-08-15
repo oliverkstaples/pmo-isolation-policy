@@ -21,8 +21,15 @@ probability-of-major-outbreak (PMO) methodology.
 
 ## Reproducing
 
+Instantiate the virtual environment
 ```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 conda activate mcmc311   # numpy, scipy, matplotlib, scienceplots
+```
+
+```bash
 jupyter nbconvert --to notebook --execute --inplace current_work.ipynb
 jupyter nbconvert --to notebook --execute --inplace generate_pmo_presentation_figures.ipynb
 ```
