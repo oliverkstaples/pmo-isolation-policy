@@ -28,9 +28,3 @@ jupyter nbconvert --to notebook --execute --inplace generate_pmo_presentation_fi
 ```
 
 `future_work.ipynb` has no code cells and doesn't need running.
-
-## How the two notebooks relate
-
-`current_work.ipynb` is what's done and verified. `future_work.ipynb` is what's next: none of
-it is implemented yet, and each avenue there names the specific model parameter it would
-extend (several of which `current_work.ipynb`'s Summary already lists as currently locked).
