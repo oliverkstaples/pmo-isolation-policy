@@ -17,11 +17,7 @@ probability-of-major-outbreak (PMO) methodology.
   moving from a fixed isolation policy to a stochastic controlled branching process.
 - **`generate_pmo_presentation_figures.ipynb`** — generates the standalone slide figures
   (schematics and annotated re-exports) under `fig/pmo_presentation/`.
-- **`docs/post_isolation_pmo_methodology.pdf`** — the Hart et al. (2023) PNAS methodology
-  this project implements and extends.
-- **`data/Singapore-population-2023.csv`** — SingStat table M810731, the real Singapore
-  resident age pyramid used to sample the simulated population (from Ejima et al. 2025's
-  supplementary material).
+
 
 ## Reproducing
 
