@@ -1,8 +1,7 @@
 # PMO isolation policy
 
-Curated materials on isolation-policy analysis via the Hart et al. (2023) branching-process
-probability-of-major-outbreak (PMO) methodology, pulled out of a larger research repo for a
-presentation.
+Curated materials on isolation-policy analysis via branching-process
+probability-of-major-outbreak (PMO) methodology.
 
 ## Contents
 
